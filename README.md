@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Farhan Subkhi Mashadi</h1>
+<h1 align="center">Hi 👋, I'm Subkhi Mashadi</h1>
 <h3 align="center"> Make Changes Even if only 1% per day</h3>
 
 - 👨‍💻 You can also check out my portfolio at [https://github.com/farhnDev](https://github.com/farhnDev)
